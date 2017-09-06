@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\okio-1.6.0_2e27e384ddd2f67ef23dccd89744cdec7db6b629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\2d895666f378e2dfd12aac32b750f5efba2b54a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_36aebfbfd68010cffa31dfae8c14fd2dda84c2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\fbb2026e0dde88fb9453e39b22ed3223c642be83\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_dea4ec9c18db1d16a089b88c52ec06313c44aaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\3aefdf7f07fd2b96d9e9391c9fcbb1d3c82fddb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_62348ea7a0fb26dd7b355a981fc7b387f0071d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_2dd633dcd8a67844cececbd80033a441689713d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.2\df90a91dbb9a7d942361a5613b1666e38dca4844\rxjava-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df90a91dbb9a7d942361a5613b1666e38dca4844">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\rxjava-1.1.2_a2d84df6f0c20fbb978d53add88672bef693b1a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\2b9f8b78606708389586ba80418d05b8c5346cf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="058ff5263b3a76cb92d9ebe9f71d519f3850eb45">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_ff2c7bf7ec547f0136672a864b9ebd2a4b8face8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project\AS\MVP\core\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a24fe45d0e1d5e151d969a906f06e35d552221a">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_0c5cb9a140bbe2412db514033ac8068766d52e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\932c58a38f6c33b8c5f18bfe921d49c0a4974e08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_7fdf0ba7e32c55eb17fe25e63d904668e1b8db01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_d63bd1b7d658eec7db7e510747b93e80128af057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\2246e138f07972a74f0c7cb995917918a43870c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_b42e0b5bb3461df06da90f51f573bcf66f4d5297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project\AS\MVP\app\libs\AMap_Location_V3.2.0_20161206.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b79e4bf9265148e1e27a4c4af94e44150c44a7df">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.2.0_20161206_9a418360352e5d09cd23b896fec579a8fb31ae7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\fbb2026e0dde88fb9453e39b22ed3223c642be83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_d25e82b60f3953f972ec7691ef94fc5e1bab2ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkSoft\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_f575202e5efceed31dc9126820ada40e9572a3b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\da78f8df88594b302a26a033f51ccf19a183e180\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_a813de7c156cdcbdfd9c3c8a3105d428a23037d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\3aefdf7f07fd2b96d9e9391c9fcbb1d3c82fddb3\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ad8d6ce971b2cf18d4299bd02910670bbcc9000b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project\AS\MVP\app\libs\Android_Map3D_SDK_V4.1.3_20161208.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c108325bfcbf3212ddc2e6ea6e55f56742537381">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V4.1.3_20161208_c34a7b51ebd3e48b5c87461ddcd593641815ff14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\955699a0b0332f56fc058803193562c1cf0981a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82a147f2eb902b49e080ad5f79a6298115c69bb7">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_c80ece88b19fbb390697218e939e7b7c1eb886c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.1\cabf146d220dcd70a2972166cd1bfae200b97eff\adapter-rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.1_bc26c46a8c1e5dae8d8bbfb1c4ae92581c12c2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\2e94c1fdc09c2180bef2da546e6cf087d48f1ade\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_775589d3bdfc276e04bdb4aea61f1032559ec4fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\e2502ac9555d360c7e8df14c276eeb4d59e91ef4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_2deed376139e34676e5ac446f397e2ac60c14d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\04886ef754dc2441ac6fb0090c9a4d53089b376c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_3e16a5bdb884f744f236b81459a4ade5626b3ea8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\8045d1966619754fecab7f1eb75f922685d59d4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3cd589eb98308e8b0173feed3d717fe3ad04f21">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_4ef3f98a01fe24eba3866c5aaeeccd7bea3c0164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\retrofit-2.0.1_c91c03b31a2933ee96d4d57d369cb7b98f7bba0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project\AS\MVP\app\libs\tbs_sdk_thirdapp_v2.4.0.1073_36840_sharewithdownload_obfs_20161011_194834.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc8e86c61401a7ef1c3a8bf039983c07ebb0e95a">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\tbs_sdk_thirdapp_v2.4.0.1073_36840_sharewithdownload_obfs_20161011_194834_f7784509f3159074a9c4d2f77d23e94d2ed2a38c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\9bbafca197f390ed346258ee24339e334ef13405\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_6f803d315c274cbcc79e3cb439493ef0e399f93d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project\AS\MVP\app\libs\AMap_Search_V3.6.1_20161206.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4c22e48e6d70b26929a21c6f43ef80eafe55066">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\AMap_Search_V3.6.1_20161206_71d4a6b7a70fe9fb817f01d844a7490da2e5aaf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\27f661144e0c858fe0129437f1bfb4433e326100\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_a0190112c0f00df19ae23fa1729606c28bf0b1f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.1_5db309f97e4f2b6478b3b3b7560427877815018e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\2d895666f378e2dfd12aac32b750f5efba2b54a2\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_489e6949e87bb9d2b3e5eb21d5ffe8b05d4ed376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\0699c6048fc83a5da0129f6271cc1628cd50d8c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="115e02104d60c8ea161a57cfcb844f235575a197">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_c3f99c3e293eb81667270b30e65dffb7e5a4777e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0_8de3d37b6f76879e388114599f02fc45818c0e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\gson-2.6.1_f513b930517ee24880210cf8b163bcd91f570282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\okhttp-integration\1.3.1\8ea5a823133bff9f612085e92271c7715ed187a9\okhttp-integration-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ea5a823133bff9f612085e92271c7715ed187a9">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\okhttp-integration-1.3.1_fdbe797098bb109321291e347a2382993a8cbb0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\da78f8df88594b302a26a033f51ccf19a183e180\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_294e39fc313d5aff4e3d3b0b89e29ca754f8f2c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project\AS\MVP\app\libs\pldroid-player-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d6cdcb955173ff453453ab2e9342db8eddd4a6f">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\pldroid-player-1.4.0_4e436fa101a838598393f6d83df22ea78ddcd443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\56d341359d4cf52c3e03c695f3d8dd7f7da9baf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_c1ee31fd591a0095c2d17caf759c80908986f9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.2.0_646d565253210a389142889ca23519f6b4e1813f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\efc3bc4ab249176e83054313cc3e96efbfab355f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_b96d79544ffbe62d527b4fccc6dc4f62ec919d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.2\c3b60518ca618748430276191918f78ab36bc4b5\analytics-6.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3b60518ca618748430276191918f78ab36bc4b5">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\analytics-6.1.2_db52b4fcae62fcc5244baa50669c1759accf6c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\04886ef754dc2441ac6fb0090c9a4d53089b376c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_694b158cc610c0c864af72477ed4a993318115d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\glide-3.6.1_7e8dc7955d24b10189b33ded2ee45667f062fe8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\2267fd56afbf4f42c0a14089adfdd956ec7aceb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_bce112bffc5585351b4960df5a2482e800ebb31f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\ea9d05772e196fe5a831ca07bed02ac29ebd1b40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_343d971403302fb16f6b29bd3d9465f6cf3f5d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\93128da4d73c61c1f30bd07e4bebd9e871fde624\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7ce6511f474bc0e6b4f8dd95e320b21d1202374">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_a2dc9651680fc9e723bc8c3ba51078dd43498f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\fd5727b6a639e471d1fc58f71da95f9ae72d9ae3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7853c6b5f5188017e11c970809c8d981d414689">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_e2b1f87af46e11080165d7995c4081b45832a024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Think\.android\build-cache\051947729943c864a7ab7626f065eece87e46b9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="F:\Project\AS\MVP\app\build\intermediates\pre-dexed\debug\classes_d44363a5937faf8e3dd36cc707003660643208c2.jar" />
+    </item>
+
+</items>
